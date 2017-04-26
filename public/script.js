@@ -1,5 +1,6 @@
 $(function(){
 
+
   /* An array of colors we can use to highlight different data */
   var colors = [
     'yellow',
